@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-base-truncate-middle",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Truncate the middle UTF-16 code units of a string to return a string having a specified length.",
   "license": "Apache-2.0",
   "author": {
@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/math-base-assert-is-odd": "^0.3.1",
-    "@stdlib/math-base-special-round": "^0.3.0"
+    "@stdlib/math-base-special-round": "^0.3.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
